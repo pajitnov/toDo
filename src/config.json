@@ -1,0 +1,8 @@
+{
+  "HOST": "localhost",
+  "PORT": "4000",
+  "API_ENDPOINT": "/",
+  "API_GET_TASKS": "/api/getTasks",
+  "API_POST_TASKS": "/api/postTasks",
+  "AUTH_TOKEN": "1234"
+}
